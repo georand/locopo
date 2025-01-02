@@ -41,7 +41,7 @@ Since the communication capabilities are not used therefore STM32 could have bee
 
 documentation: <https://docs.espressif.com/projects/esp-idf/en/latest/api-reference/index.html>
 
-### wiring
+### Wiring
 ![](schematic.png)
 
 ## Software
