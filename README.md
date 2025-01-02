@@ -42,7 +42,7 @@ Since the communication capabilities are not used therefore STM32 could have bee
 documentation: <https://docs.espressif.com/projects/esp-idf/en/latest/api-reference/index.html>
 
 ### wiring
-see shematic
+![](schematic.png)
 
 ## Software
 The developmenent framework is plain ESP-IDF (C99 code but it should be possible to write C++ code).x
