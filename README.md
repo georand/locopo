@@ -1,5 +1,4 @@
 # LoCoPo (LOw COst POsitioning)
-====================
 
 A low cost postioning device based on an ESP32 controlling a BNO080 IMU (Inertial Measurement Unit) and a U-Block ZED-F9P GNSS (Global Navigation Satellite Systems)
 
@@ -11,6 +10,7 @@ the BNO080 is a The BNO080 is a 9-axis System. it integrates
 - a triaxial gyroscope,
 - a magnetometer
 - a 32-bit ARM® CortexTM-M0+ microcontroller running Hillcrest’s SH-2 firmware.
+
 The implementation used in the project is: <https://www.sparkfun.com/products/14686>
 
 documentation:
@@ -23,6 +23,7 @@ documentation:
  -   High update rate for highly dynamic applications
  -   Centimeter accuracy in a small and energy efficient module
  -   Easy integration of RTK for fast time‑to‑market
+
 The implementation used in the project is: <https://www.sparkfun.com/products/15136>
 
 documentation: <https://www.u-blox.com/en/product/zed-f9p-module#tab-documentation-resources>
